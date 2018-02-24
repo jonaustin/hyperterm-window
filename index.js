@@ -12,7 +12,6 @@ const overlayStyles = {
   transition: 'left 0.75s, bottom 0.75s, top 0.75s, right 0.75s, width 0.75s, height 0.75s'
 };
 
-console.log('in here');
 module.exports = class extends React.Component {
   constructor(props) {
     super(props);
